@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def say_hello (peeps)
+  puts "Hello, #{peeps}!"
+end
