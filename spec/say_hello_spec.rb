@@ -1,4 +1,4 @@
-require ("../say_hello")
+require_relative ("../say_hello")
 
 describe "say_hello" do
 
