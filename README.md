@@ -26,5 +26,9 @@ There is one more thing this method should do: if you call on this method and fo
   * Run `learn` again. Are you getting a different error? If you haven't seen this error, guess what it's trying to tell you then Google it with the word "ruby".
 3. Get all the tests to pass!
 4. Once all of the tests are passing, use `learn submit` to submit your lab. 
+5. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/say-hello-ruby' title='Say Hello'>Say Hello</a> on Learn.co and start learning to code for free.</p>
+
+
+say_hello(name"!"")
